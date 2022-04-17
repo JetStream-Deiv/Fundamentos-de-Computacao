@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 x1 = (1, 2, 4, 6)
 y1 = (3, 7, 9, 15)
 
-plt.plot(x2, y2)
+plt.plot(x1, y1)
 plt.ylabel('dados')
 plt.xlabel('peso')
 plt.title('dados x altura')
